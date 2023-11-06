@@ -1,4 +1,4 @@
-package Samples;
+package samples;
 
 public class HelloWorld {
 	

@@ -1,4 +1,4 @@
-package StringExamples;
+package stringExamples;
 
 public class StringCompareToDemo {
 

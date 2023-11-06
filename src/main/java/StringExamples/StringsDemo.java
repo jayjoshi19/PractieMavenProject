@@ -1,4 +1,4 @@
-package StringExamples;
+package stringExamples;
 
 import java.util.Iterator;
 import java.util.Scanner;
